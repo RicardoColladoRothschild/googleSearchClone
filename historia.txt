@@ -1,0 +1,3 @@
+En este fork ricardo collado ha modificado el documento index.html, ha colocado el autor,
+y adicional ha creado un archivo hitoria.txt en el que.... pues ha colocado el 
+texto que estas leyendo
